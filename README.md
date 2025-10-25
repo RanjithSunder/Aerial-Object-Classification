@@ -146,7 +146,7 @@ This ensures consistent results across runs.
 
 ## 📜 License
 
-MIT License © 2025 SmartRun Tech
+MIT License © 2025
 
 ---
 
