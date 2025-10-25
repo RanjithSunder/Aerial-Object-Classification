@@ -3,7 +3,7 @@ __pycache__/
 *.pyo
 env/
 .venv/
-models/*.h5
-models/*.keras
+# models/*.h5
+# models/*.keras
 .streamlit/
 .ipynb_checkpoints/
